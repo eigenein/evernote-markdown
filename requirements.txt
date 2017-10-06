@@ -1,0 +1,4 @@
+click
+html2text
+python-magic
+python-slugify
