@@ -28,6 +28,7 @@ EXTENSIONS = {
     'image/svg': 'svg',
     'image/svg+xml': 'svg',
     'image/x-ms-bmp': 'bmp',
+    'application/pdf': 'pdf'
 }
 
 
